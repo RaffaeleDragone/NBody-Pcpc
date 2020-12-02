@@ -4,11 +4,6 @@
 
 ![N-Body](https://mir-s3-cdn-cf.behance.net/project_modules/disp/b15a1122638879.56315fcc653b5.gif)
 
-**Candidato** : *Dragone Raffaele*
-
-**Matricola** : *0522500863*
-
-**Anno Accademico** : *2019/2020*
 
 # Sommario.
 1. Presentazione della soluzione proposta
