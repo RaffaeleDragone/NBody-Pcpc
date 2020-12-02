@@ -2,7 +2,7 @@
 
 
 
-![N-Body](/Users/raffaeledragone/Dropbox/Universita'/Magistrale/Programmazione Concorrente Parallela Su Cloud/DragoneRaffaeleSolution/nbody_img.png)
+![N-Body](https://mir-s3-cdn-cf.behance.net/project_modules/disp/b15a1122638879.56315fcc653b5.gif)
 
 **Candidato** : *Dragone Raffaele*
 
