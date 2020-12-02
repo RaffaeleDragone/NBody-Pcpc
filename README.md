@@ -410,7 +410,7 @@ K=5.000
 | P | 10     | 11     | 12     | 13     | 14     | 15     | 16     | 17     | 18     |
 | N | 25.000 | 27.500 | 30.000 | 32.500 | 35.000 | 37.500 | 40.000 | 42.500 | 45.000 |
 
-![k/2_weak](weak_scalability_graph/weak_scal_k_2.png)
+![k/2_weak](DragoneRaffaeleSolution/weak_scalability_graph/weak_scal_k_2.png)
 
 ### 3.1.2 K=5.000
 
@@ -420,7 +420,7 @@ K=5.000
 | P | 10     | 11     | 12     | 13     | 14     | 15     | 16     | 17     | 18     |
 | N | 50.000 | 55.000 | 60.000 | 65.000 | 70.000 | 75.000 | 80.000 | 85.000 | 90.000 |
 
-![k_weak](weak_scalability_graph/weak_scal_k.png)
+![k_weak](DragoneRaffaeleSolution/weak_scalability_graph/weak_scal_k.png)
 
 ### 3.1.3 2K = 10.000
 
@@ -430,7 +430,7 @@ K=5.000
 | P | 10      | 11      | 12      | 13      | 14      | 15      | 16      | 17      | 18      |
 | N | 100.000 | 110.000 | 120.000 | 130.000 | 140.000 | 150.000 | 190.000 | 200.000 | 210.000 |
 
-![2k_weak](weak_scalability_graph/weak_scal_2k.png)
+![2k_weak](DragoneRaffaeleSolution/weak_scalability_graph/weak_scal_2k.png)
 
 ## 3.2 Scalabilità Forte
 
@@ -440,7 +440,7 @@ K=5.000
 |----|--------|----------------|
 | 1-18 | 10.000 | 50 / 100 / 150 |
 
-![10000_strong](strong_scalability_graph/strong_scal_10000_bodies.png)
+![10000_strong](DragoneRaffaeleSolution/strong_scalability_graph/strong_scal_10000_bodies.png)
 
 | P              | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 12 | 13 | 14 | 15 | 16 | 17 | 18 |
 |----------------|---|---|---|---|---|---|---|---|----|----|----|----|----|----|----|----|----|
@@ -455,7 +455,7 @@ K=5.000
 |----|--------|----------------|
 | 1-18 | 30.000 | 50 / 100 / 150 |
 
-![30000_strong](strong_scalability_graph/strong_scal_30000_bodies.png)
+![30000_strong](DragoneRaffaeleSolution/strong_scalability_graph/strong_scal_30000_bodies.png)
 
 | P              | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 12 | 13 | 14 | 15 | 16 | 17 | 18 |
 |----------------|---|---|---|---|---|---|---|---|----|----|----|----|----|----|----|----|----|
@@ -470,7 +470,7 @@ K=5.000
 |----|--------|----------------|
 | 1-18 | 50.000 | 50 / 100 / 150 |
 
-![50000_strong](strong_scalability_graph/strong_scal_50000_bodies.png)
+![50000_strong](DragoneRaffaeleSolution/strong_scalability_graph/strong_scal_50000_bodies.png)
 
 
 | P              | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 12 | 13 | 14 | 15 | 16 | 17 | 18 |
